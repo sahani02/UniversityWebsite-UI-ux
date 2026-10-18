@@ -1,5 +1,5 @@
 # University website -uiux
-Simple UI design of Learning Management System website
+Simple UI design for university website
 # 🌍 University website– UI/UX Prototype
 
 ## 📌 Project Overview
